@@ -1,4 +1,4 @@
-# Created by Kalina Allen & Alex Jackson
+# arith - Created by Alex Jackson & Kalina Allen
 ##arith
 ###10/22/15
 
