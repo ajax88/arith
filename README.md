@@ -1,9 +1,8 @@
 # arith - Created by Alex Jackson & Kalina Allen
-##arith
-###10/22/15
+### 10/22/15
 
-Our progam compresses .ppm image into a COMP40 Compressed image format
-2 and decompresses this file back into a .ppm image.
+### This progam compresses a .ppm image into component video pixel compressed image format
+### and can decompress the CV formatted file back into an rgb pixel .ppm image file.
 
 Solution Architecture:
 40image.c handles command line arguments and calls compress40() or 
