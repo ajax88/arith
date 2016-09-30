@@ -1,12 +1,8 @@
-Kalina Allen (kallen07) & Alex Jackson (ajacks06)
-Homework 4 - arith
-10/22/15
+# Created by Kalina Allen & Alex Jackson
+##arith
+###10/22/15
 
-Collaboration:
-Thank you TAs!
-
-To the best of our knowledge, we have correctly implemented all aspects of this
-project. Our progam compresses .ppm image into a COMP40 Compressed image format
+Our progam compresses .ppm image into a COMP40 Compressed image format
 2 and decompresses this file back into a .ppm image.
 
 Solution Architecture:
@@ -25,7 +21,3 @@ Note that we decided to use a denominator of 255 for our decompression. This is
 because this denominator ensures that the decompressed file is not larger than 
 the original uncompressed file. 255 is also the most commonly used denominator.
 
-
-Total hour count: 49
-+ hours spent analyzing the problems posed in the assignment: 18.5
-+ hours you have spent solving the problems after analysis: 30.5
